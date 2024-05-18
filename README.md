@@ -1,0 +1,1 @@
+Lector RSS realizado siguiendo el curso https://www.udemy.com/course/flask-htmx de Jose Salvatierra
